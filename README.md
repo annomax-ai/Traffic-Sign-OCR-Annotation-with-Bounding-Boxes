@@ -27,6 +27,10 @@ The sample image contains multiple street name signs, directional sign panels an
 
 Annotate individual traffic sign panels or information panels containing readable or partially readable text.
 
+## Annotation Preview
+
+![Traffic Sign OCR Annotation Preview](<annotation preview/2026-10-23_21-28_1.png>)
+
 In the reference image, eligible examples include:
 
 - `Glattpark`
