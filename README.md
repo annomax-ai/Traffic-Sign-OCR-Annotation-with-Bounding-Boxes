@@ -237,3 +237,7 @@ Annomax AI focuses on structured AI data annotation and quality assurance for co
 This sample demonstrates our approach to bounding box annotation, text transcription, dataset consistency and quality validation.
 
 **Precision Annotation That Trains Better AI.**
+
+---
+
+*Note: This is a sample dataset for demonstration purposes. Please verify the image usage rights and licensing before redistributing the images or using them commercially.*
